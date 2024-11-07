@@ -1,6 +1,16 @@
-#ignore build and lib dirs
-build
-lib/*
+# Ignore build directory
+/build/
 
-#ignore any executibles
-bin/*
+# Ignore CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ignore SFML binaries (if any are generated)
+*.o
+*.so
+*.dll
+*.dylib
+*.exe
+
