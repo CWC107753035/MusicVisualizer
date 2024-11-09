@@ -1,3 +1,0 @@
-/home/weichao/cpp_audio_visualiser/build/CMakeFiles/MusicVisualizer.dir
-/home/weichao/cpp_audio_visualiser/build/CMakeFiles/edit_cache.dir
-/home/weichao/cpp_audio_visualiser/build/CMakeFiles/rebuild_cache.dir
